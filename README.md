@@ -1,3 +1,2 @@
 # springboot
 SpringBootPractice
-這是資展國際課程的所練習的程式碼
